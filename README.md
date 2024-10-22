@@ -12,3 +12,5 @@ JavaScript, p5.js, HTML, Cascading Style Sheets (CSS), Game Design, and Game Dev
 
 ## Live demo link: 
 https://cssi-finalproj.glitch.me
+
+This was my first time using p5.js for a final project. 
